@@ -1,0 +1,32 @@
+
+Level-1:
+Display a list of ingredients for the users to select from.
+Upon submitting, provide them with the list of recipes that could be made
+Display the recipes with images, ingredients, and cooking procedures.
+Use local storage for storing predefined recipes.
+
+
+
+
+Level-2:
+Provide an option for the users to save their favorite recipes.
+Add a way to revisit their saved recipes when required.
+Allow users to filter recipes based on cuisines, preparation time, and dietary restrictions.
+
+
+Level-3:
+Implement user login and registration using a local database.
+Allow users to publish their own recipes.
+Add rating and reviews functionality.
+Provide voiceover / speak the preparation steps.
+
+
+1.Display a list of ingredients for the users to select from., provide them with the list of recipes,each with images, ingredients, and cooking procedures. 
+2.Add favorites and add to favorites button.
+3.add user login,registration.
+4.allow users to publish their own recipes.
+5.add voice button so that voiceover plays
+
+
+
+

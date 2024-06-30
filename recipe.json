@@ -1,0 +1,164 @@
+cons all=[
+  {
+    "title": "Spaghetti Carbonara",
+    "image": "https://example.com/spaghetti-carbonara.jpg",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g pecorino cheese",
+      "50g parmesan",
+      "Black pepper",
+      "Salt",
+      "2 cloves garlic"
+    ],
+    "summary": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+    "instructions": "1. Cook the spaghetti. 2. Fry the pancetta with the garlic. 3. Beat the eggs and mix with the cheese. 4. Combine everything and serve."
+  },
+  {
+    "title": "Chicken Alfredo",
+    "image": "https://example.com/chicken-alfredo.jpg",
+    "ingredients": [
+      "200g fettuccine",
+      "2 chicken breasts",
+      "100g butter",
+      "200ml heavy cream",
+      "50g parmesan",
+      "2 cloves garlic",
+      "Salt",
+      "Black pepper",
+      "Parsley"
+    ],
+    "summary": "Creamy pasta with chicken and a rich Alfredo sauce.",
+    "instructions": "1. Cook the fettuccine. 2. Cook the chicken breasts and slice them. 3. Make the Alfredo sauce. 4. Combine everything and garnish with parsley."
+  },
+  {
+    "title": "Beef Tacos",
+    "image": "https://example.com/beef-tacos.jpg",
+    "ingredients": [
+      "500g ground beef",
+      "8 taco shells",
+      "1 onion",
+      "2 tomatoes",
+      "Lettuce",
+      "Cheddar cheese",
+      "Taco seasoning",
+      "Salt",
+      "Sour cream",
+      "Salsa"
+    ],
+    "summary": "Delicious tacos filled with seasoned beef and fresh toppings.",
+    "instructions": "1. Cook the ground beef with taco seasoning. 2. Prepare the toppings. 3. Assemble the tacos and serve with sour cream and salsa."
+  },
+  {
+    "title": "Vegetable Stir Fry",
+    "image": "https://example.com/vegetable-stir-fry.jpg",
+    "ingredients": [
+      "1 broccoli",
+      "2 carrots",
+      "1 bell pepper",
+      "1 onion",
+      "100g snap peas",
+      "2 tbsp soy sauce",
+      "2 cloves garlic",
+      "Ginger",
+      "Salt",
+      "Olive oil"
+    ],
+    "summary": "A healthy and quick vegetable stir fry with a savory sauce.",
+    "instructions": "1. Prepare and chop the vegetables. 2. Stir fry the vegetables with garlic and ginger. 3. Add the soy sauce and stir well. 4. Serve hot."
+  },
+  {
+    "title": "Margherita Pizza",
+    "image": "https://example.com/margherita-pizza.jpg",
+    "ingredients": [
+      "Pizza dough",
+      "200g mozzarella cheese",
+      "100g tomato sauce",
+      "Fresh basil",
+      "Olive oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "summary": "Classic Italian pizza with fresh mozzarella, basil, and tomato sauce.",
+    "instructions": "1. Prepare the pizza dough. 2. Spread the tomato sauce over the dough. 3. Add mozzarella cheese and basil leaves. 4. Bake the pizza and drizzle with olive oil before serving."
+  },
+  {
+    "title": "Caesar Salad",
+    "image": "https://example.com/caesar-salad.jpg",
+    "ingredients": [
+      "1 romaine lettuce",
+      "50g parmesan",
+      "Croutons",
+      "Caesar dressing",
+      "2 chicken breasts",
+      "Salt",
+      "Black pepper"
+    ],
+    "summary": "Crisp romaine lettuce with creamy Caesar dressing, parmesan, and chicken.",
+    "instructions": "1. Prepare the lettuce and chicken. 2. Toss the lettuce with Caesar dressing. 3. Add chicken, parmesan, and croutons. 4. Serve chilled."
+  },
+  {
+    "title": "Chocolate Brownies",
+    "image": "https://example.com/chocolate-brownies.jpg",
+    "ingredients": [
+      "200g dark chocolate",
+      "150g butter",
+      "200g sugar",
+      "3 eggs",
+      "100g flour",
+      "50g cocoa powder",
+      "Vanilla extract",
+      "Salt"
+    ],
+    "summary": "Rich and fudgy chocolate brownies with a crackly top.",
+    "instructions": "1. Melt the chocolate and butter. 2. Mix in the sugar, eggs, and vanilla. 3. Add the flour and cocoa powder. 4. Bake and let cool before serving."
+  },
+  {
+    "title": "Garlic Butter Shrimp",
+    "image": "https://example.com/garlic-butter-shrimp.jpg",
+    "ingredients": [
+      "500g shrimp",
+      "100g butter",
+      "4 cloves garlic",
+      "Parsley",
+      "Lemon juice",
+      "Salt",
+      "Black pepper"
+    ],
+    "summary": "Succulent shrimp cooked in a garlic butter sauce with fresh parsley.",
+    "instructions": "1. Prepare the shrimp. 2. Cook the garlic in butter. 3. Add the shrimp and cook until done. 4. Add lemon juice and parsley before serving."
+  },
+  {
+    "title": "Pancakes",
+    "image": "https://example.com/pancakes.jpg",
+    "ingredients": [
+      "200g flour",
+      "2 eggs",
+      "300ml milk",
+      "2 tbsp sugar",
+      "1 tbsp baking powder",
+      "Salt",
+      "Butter",
+      "Maple syrup"
+    ],
+    "summary": "Fluffy pancakes perfect for breakfast or brunch.",
+    "instructions": "1. Mix the dry ingredients. 2. Add the wet ingredients and mix well. 3. Cook the pancakes on a hot griddle. 4. Serve with butter and maple syrup."
+  },
+  {
+    "title": "Tomato Soup",
+    "image": "https://example.com/tomato-soup.jpg",
+    "ingredients": [
+      "1kg tomatoes",
+      "1 onion",
+      "2 cloves garlic",
+      "500ml vegetable broth",
+      "Basil",
+      "Salt",
+      "Black pepper",
+      "Olive oil"
+    ],
+    "summary": "A comforting and rich tomato soup with fresh basil.",
+    "instructions": "1. Sauté the onion and garlic. 2. Add the tomatoes and broth. 3. Simmer and blend until smooth. 4. Season and serve with fresh basil."
+  }
+]

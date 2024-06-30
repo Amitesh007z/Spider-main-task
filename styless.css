@@ -1,0 +1,245 @@
+
+
+.log{
+ position: relative;
+ border-radius: 10%;
+
+ left: 545px;
+ top:190px;
+  height: 460px;
+  width: 400px;
+  background-color: #E5F4E3;
+}
+
+
+
+.rubik-doodle shadow-regular {
+  font-family: "Rubik Doodle Shadow", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sixtyfour-d {
+  font-family: "Sixtyfour", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+}
+.honk-s{
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+.amarante-regular {
+  font-family: "Amarante", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.grenze-thin {
+    font-family: "Grenze", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .grenze-thin-italic {
+    font-family: "Grenze", serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .grenze-extralight {
+    font-family: "Grenze", serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .grenze-extralight-italic {
+    font-family: "Grenze", serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .grenze-light {
+    font-family: "Grenze", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .grenze-light-italic {
+    font-family: "Grenze", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .grenze-regular {
+    font-family: "Grenze", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .grenze-regular-italic {
+    font-family: "Grenze", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .grenze-medium {
+    font-family: "Grenze", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .grenze-medium-italic {
+    font-family: "Grenze", serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .grenze-semibold {
+    font-family: "Grenze", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .grenze-semibold-italic {
+    font-family: "Grenze", serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .grenze-bold {
+    font-family: "Grenze", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .grenze-bold-italic {
+    font-family: "Grenze", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .grenze-extrabold {
+    font-family: "Grenze", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .grenze-extrabold-italic {
+    font-family: "Grenze", serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .grenze-black {
+    font-family: "Grenze", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .grenze-black-italic {
+    font-family: "Grenze", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .grid{
+
+    display: flex;
+ 
+    justify-content: space-between;
+    gap: 410px;
+    position: absolute;
+    top: 270px;
+  }  
+  button{
+    width: 200px;
+    height: 100px;
+    background-color: burlywood;
+    outline: none;
+    border-style: none;
+    border-radius: 7%;
+
+  }
+  #t{
+    position: absolute;
+    left: 629px;
+
+  }
+  #r{
+    position: absolute;
+    left: 1200px;
+
+  }
+  h1{
+    font-size: 60px;
+    position: absolute;
+    right: 590px;
+
+  }
+  #hw{
+  height: 400px;
+  width: 550px;
+  position: absolute;
+
+  border-color:#000000;
+  outline: none;
+  }
+  .ee{
+    position: absolute;
+    top: 500px;
+    width: 140px;
+    height: 40px;
+    left: 190px;
+    background-color: burlywood;
+    outline: none;
+    border-style: none;
+    border-radius: 7%;
+
+  }
+  .eef{
+    position: absolute;
+    top: 500px;
+    width: 140px;
+    height: 40px;
+    left: 350px;
+    background-color: burlywood;
+    outline: none;
+    border-style: none;
+    border-radius: 7%;
+
+  }
