@@ -48,7 +48,11 @@ Thanks!!!
 
 
 Screenshots of webApp:
+![a73ad4dc-c86b-4aee-b7d5-7979c54b79d4](https://github.com/Amitesh007z/Spider-main-task/assets/145351157/b756d2d8-dc19-46b5-9162-df302da25ee1)
+![image](https://github.com/Amitesh007z/Spider-main-task/assets/145351157/2b916458-0075-4476-ab2d-c02853d30da7)
 
-![29694a56-3691-44a5-96eb-dd29d4f5a47c](https://github.com/Amitesh007z/Spider-main-task/assets/145351157/cd90aefa-4974-4989-b048-64d5675c1e8d)
+
+![734a7051-d57c-4e88-b961-9632d4ecb1f7](https://github.com/Amitesh007z/Spider-main-task/assets/145351157/d24e73bf-51c3-455d-9480-62a0b9d2c4a0)
+z/Spider-main-task/assets/145351157/cd90aefa-4974-4989-b048-64d5675c1e8d)
 ![06a7e85e-916b-440e-b6bf-a40a01ad28df](https://github.com/Amitesh007z/Spider-main-task/assets/145351157/eb784e88-5172-447d-8f6d-fb84d447f4d4)
 
